@@ -1,7 +1,7 @@
 FROM jenkins:latest
 MAINTAINER Linki <linki+docker.com@posteo.de>
 
-ENV DOCKER_VERSION 1.8.3
+ENV DOCKER_VERSION 1.9.1
 
 USER root
 
